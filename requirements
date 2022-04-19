@@ -1,0 +1,8 @@
+numpy
+pandas
+sys
+string
+csv
+requests
+webbrowser
+PySimpleGUI
